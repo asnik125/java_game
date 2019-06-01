@@ -32,16 +32,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/football/src/main/java/Football.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="109" column="5" lean-forward="true" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+            <state relative-caret-position="-19">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="20" />
               <folding>
                 <element signature="e#130#232#0" />
                 <element signature="method#kickReturn#0;class#Football#0" />
                 <element signature="method#runPlay#0;class#Football#0" />
-                <element signature="method#longPlay#0;class#Football#0" />
                 <element signature="method#shortPlay#0;class#Football#0" />
-                <element signature="method#playChoise#0;class#Football#0" />
-                <element signature="e#2110#2743#0" />
               </folding>
             </state>
           </provider>
@@ -151,6 +148,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1260" height="650" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -165,7 +163,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32818532" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" auto_hide="true" x="57" y="215" width="1200" height="435" id="Run" order="2" sideWeight="0.49916667" type="FLOATING" visible="true" weight="0.32818532" />
+      <window_info anchor="bottom" auto_hide="true" x="19" y="219" width="1200" height="435" id="Run" order="2" sideWeight="0.49916667" type="FLOATING" weight="0.32818532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -188,16 +186,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/football/src/main/java/Football.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="109" column="5" lean-forward="true" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+        <state relative-caret-position="-19">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="20" />
           <folding>
             <element signature="e#130#232#0" />
             <element signature="method#kickReturn#0;class#Football#0" />
             <element signature="method#runPlay#0;class#Football#0" />
-            <element signature="method#longPlay#0;class#Football#0" />
             <element signature="method#shortPlay#0;class#Football#0" />
-            <element signature="method#playChoise#0;class#Football#0" />
-            <element signature="e#2110#2743#0" />
           </folding>
         </state>
       </provider>
